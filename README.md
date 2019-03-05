@@ -89,3 +89,7 @@ Quit the server with CONTROL-C.
 [05/Mar/2019 20:28:27] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
 Not Found: /favicon.ico
 ```
+
+
+## Link
+- [](https://github.com/testdrivenio/django-on-docker)
