@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 django = "*"
 gunicorn = "*"
+django-environ = "==0.4.1"
+environ = "*"
+pip = "*"
+djangorestframework = "*"
 
 [requires]
 python_version = "3.7"

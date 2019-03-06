@@ -6,6 +6,7 @@
 - Django
 - Gunicorn
 - Pipenv
+- Environ for multi-stage and dotenv
 
 ## Setting up local enviornment
 ```bash
@@ -81,7 +82,7 @@ Performing system checks...
 System check identified no issues (0 silenced).
 March 05, 2019 - 20:28:22
 Django version 2.1.7, using settings 'hello_django.settings'
-Starting development server at http://127.0.0.1:8000/
+  Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 [05/Mar/2019 20:28:27] "GET / HTTP/1.1" 200 16348
 [05/Mar/2019 20:28:27] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423

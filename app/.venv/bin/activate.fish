@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/kim.hyunsung/django/pipenv-django/.venv"
+set -gx VIRTUAL_ENV "/Users/kim.hyunsung/django/pipenv-django/app/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
@@ -61,8 +61,8 @@ if test -z "$VIRTUAL_ENV_DISABLE_PROMPT"
 
         # Prompt override provided?
         # If not, just prepend the environment name.
-        if test -n "(pipenv-django) "
-            printf '%s%s' "(pipenv-django) " (set_color normal)
+        if test -n "(app) "
+            printf '%s%s' "(app) " (set_color normal)
         else
             printf '%s(%s) ' (set_color normal) (basename "$VIRTUAL_ENV")
         end

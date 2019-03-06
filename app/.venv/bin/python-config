@@ -1,4 +1,4 @@
-#!/Users/kim.hyunsung/django/pipenv-django/.venv/bin/python
+#!/Users/kim.hyunsung/django/pipenv-django/app/.venv/bin/python
 
 import sys
 import getopt
