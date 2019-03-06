@@ -1,4 +1,5 @@
 # Django Deployment
+해당 프로젝트는 아래 링크에서 가져온 부분으로 해당 프로젝트에서 가장 좋았던 부분은 'docker'를 고려한 패키지 구조가 잘 정리되었다는 점이다.
 
 
 ## Feature
@@ -92,4 +93,4 @@ Not Found: /favicon.ico
 
 
 ## Link
-- [](https://github.com/testdrivenio/django-on-docker)
+- [django-on-docker](https://github.com/testdrivenio/django-on-docker)
