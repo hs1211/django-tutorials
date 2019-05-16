@@ -95,3 +95,4 @@ Not Found: /favicon.ico
 
 ## Link
 - [django-on-docker](https://github.com/testdrivenio/django-on-docker)
+- [django-superviserd](https://whatisthenext.tistory.com/124)
